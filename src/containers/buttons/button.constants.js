@@ -1,0 +1,4 @@
+export const SELECT_BUTTON = "BUTTON_SELECT_BUTTON";
+
+
+export const LOG_SHIT = "BUTTONS_LOG_SHIT";
